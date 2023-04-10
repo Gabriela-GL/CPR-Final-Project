@@ -5,7 +5,8 @@ Gabriela Gomez Lopez
 //
 
 //
-START TESTING
+START TESTING APRIL 9, 2023. VERSION 1.
+//
 
 *** Start of Indexing Strings Demo ***
 
@@ -202,5 +203,247 @@ TEST 28: PASS
 Type not empty string (q - to quit):
 q
 *** End of Indexing String Demo ***
+
+Program ended with exit code: 0
+
+//
+START TESTING APRIL 10, 2023. VERSION 2.
+//
+
+*** Start of Measuring Strings Demo ***
+
+TEST 1: PASS. 
+Type a string (q - to quit):
+Volcano
+The length of 'Volcano' is 7 characters
+
+TEST 2: FAIL - NO MESSAGE FOR TESTED CONDITION OF LENGTH OF THE STRING OF CHARACTERS (e - 89)
+Type a string (q - to quit):
+Once upon a time, in which a cat eat a black mouse. The cat got poisoned, and the mouse was alive.
+The length of 'Once upon a time, in which a cat eat a black mouse. The cat got poisoned, and ' is 78 characters
+
+TEST 3: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER.
+Type a string (q - to quit):
+The length of 'he mouse was alive.' is 19 characters
+
+TEST 4: PASS - IF ANY KIND OF CHARACTER ACCEPTED
+Type a string (q - to quit):
+0
+The length of '0' is 1 characters
+
+TEST 5: PASS - IF ANY KIND OF CHARACTER ACCEPTED
+Type a string (q - to quit):
+-1
+The length of '-1' is 2 characters
+
+TEST 6: PASS
+Type a string (q - to quit):
+This is an orange
+The length of 'This is an orange' is 17 characters
+
+TEST 7: PASS
+Type a string (q - to quit):
+% % % % Does count spaces? & & & &
+The length of '% % % % Does count spaces? & & & &' is 34 characters
+
+TEST 8: PASS - IF NEW LINE IS COUNTED AS 0 CHARACTERS
+Type a string (q - to quit):
+
+The length of '' is 0 characters
+
+TEST 9: PASS
+Type a string (q - to quit):
+                  Here were 18 spaces.
+The length of '                  Here were 18 spaces.' is 38 characters
+
+TEST 10: FAIL - UNEXPECTED OUTPUT WITH NUMBERS ON IT
+Type a string (q - to quit):
+After this, I'll put 10 spaces:          '
+The length of 'After this, I'll put\357\234 10 spaces:          '' is 44 characters
+
+TEST 11: FAIL - NO MESSAGE FOR TESTED CONDITION OF LENGTH OF THE STRING OF CHARACTERS
+Type a string (q - to quit):
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+The length of '000000000000000000000000000000000000000000000000000000000000000000000000000000' is 78 characters
+
+TEST 12: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER. [AS 2ND LINE]
+Type a string (q - to quit):
+The length of '000000000000000000000000000000000000000000000000000000000000000000000000000000' is 78 characters
+
+TEST 13: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER. [AS 3RD LINE]
+Type a string (q - to quit):
+The length of '0000' is 4 characters
+
+TEST 14: FAIL - NO MESSAGE FOR TESTED CONDITION OF LENGTH OF THE STRING OF CHARACTERS
+Type a string (q - to quit):
+111111111111111ljkhgfdsqwertyuiopkjhgfds23456789023456789sdfghjkwertyuasdfghj1234567890087654321qwertyuiolkjhgfdszxcvbnmlkjhgfd23456789kjgf@#$%^&*KJHGFD@#$%^&*@#$%^&*#$%^&SDFGHJK23456789kjhgfdsqwertyuibgdswertyui1234567892345678sdfghj123456789sdfghj!@#$%^&*((*&^%$#@DFGHJ))
+The length of '111111111111111ljkhgfdsqwertyuiopkjhgfds23456789023456789sdfghjkwertyuasdfghj1' is 78 characters
+
+TEST 15: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER. [2ND TIME]
+Type a string (q - to quit):
+The length of '34567890087654321qwertyuiolkjhgfdszxcvbnmlkjhgfd23456789kjgf@#$%^&*KJHGFD@#$%^' is 78 characters
+
+TEST 16: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER. [3RD TIME]
+Type a string (q - to quit):
+The length of '*@#$%^&*#$%^&SDFGHJK23456789kjhgfdsqwertyuibgdswertyui1234567892345678sdfghj12' is 78 characters
+
+TEST 17: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER. 
+Type a string (q - to quit):
+The length of '456789sdfghj!@#$%^&*((*&^%$#@DFGHJ' is 34 characters
+
+TEST 18: FAIL - NO MESSAGE FOR TESTED CONDITION OF LENGTH OF THE STRING OF CHARACTERS
+Type a string (q - to quit):
+12345123regsgdbcjstdmsounuunsnsnsnsnsnsmsidishts987y65shdbsjag654dfg7hy5fg678nshdkshdb7192jsbct5&.Here are 100 charactes.
+The length of '12345123regsgdbcjstdmsounuunsnsnsnsnsnsmsidishts987y65shdbsjag654dfg7hy5fg678n' is 78 characters
+
+TEST 19: FAIL - BUFFER NOT CLEANED. NEXT SET OF CHARACTERS DEFINING NEXT LENGTH OF STRING (NOT ENTERED BY THE USER.
+Type a string (q - to quit):
+The length of 'hdkshdb7192jsbct5&.Here are 100 charactes.' is 42 characters
+
+TEST 20: PASS - IF ANY KIND OF CHARACTER ACCEPTED
+Type a string (q - to quit):
+0.0
+The length of '0.0' is 3 characters
+
+TEST 21: PASS - IF ANY KIND OF CHARACTER ACCEPTED
+Type a string (q - to quit):
+1+2
+The length of '1+2' is 3 characters
+
+TEST 22: PASS - IF ANY KIND OF CHARACTER ACCEPTED
+Type a string (q - to quit):
+1e^2 + log x
+The length of '1e^2 + log x' is 12 characters
+
+TEST 23: PASS
+Type a string (q - to quit):
+exit
+The length of 'exit' is 4 characters
+
+TEST 24: PASS
+Type a string (q - to quit):
+Q
+The length of 'Q' is 1 characters
+
+TEST 25: PASS
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+Program ended with exit code: 0
+
+//
+START TESTING APRIL 10, 2023. VERSION 3.
+//
+COMMENTS: Undefined correctness of output in BLACK BOX TEST for the copy of the string.
+          WHITE BOX TEST evidences correctness of copy source input string to destination.
+
+*** Start of Copying Strings Demo ***
+
+TEST 1: PASS.
+Destination string is reset to empty
+Type the source string (q - to quit):
+WANDA
+New destination string is 'WANDA'
+
+TEST 2: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+Nobody is there, but the owl is still looking at me
+New destination string is 'Nobody is there, but the owl is still looking at me'
+
+TEST 3: FAIL. NO CONDITION TESTED FOR NEW LINES [ENTRE PRESSED]
+Destination string is reset to empty
+Type the source string (q - to quit):
+
+New destination string is ''
+
+TEST 4: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+1@ No $3
+New destination string is '1@ No $3'
+
+TEST 5: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+Exit
+New destination string is 'Exit'
+
+TEST 6: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+NoNoNO No
+New destination string is 'NoNoNO No'
+
+TEST 7: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+123456789
+New destination string is '123456789'
+
+TEST 8: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+quit
+New destination string is 'quit'
+
+TEST 9: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+1.2344
+New destination string is '1.2344'
+
+TEST 10: FAIL - DUE TO EXCEEDED LENGTH OF CHARACTERS INPUT
+Destination string is reset to empty
+Type the source string (q - to quit):
+                                                                                                                 Spaces
+New destination string is ' '
+
+TEST 11: FAIL - DUE TO EXCEEDED LENGTH OF CHARACTERS INPUT
+Destination string is reset to empty
+Type the source string (q - to quit):
+New destination string is '                                  Spaces'
+
+TEST 12: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+                    
+New destination string is '                    '
+
+TEST 13: FAIL - NO TESTED CONDITIONS FOR [SPACE + ENTER] NEW LINE.
+Destination string is reset to empty
+Type the source string (q - to quit):
+
+New destination string is ''
+
+TEST 14: FAIL. DON'T SHOW MESSAGE OF EXTRA LONG LENGTH
+Destination string is reset to empty
+Type the source string (q - to quit):
+././././././././././././././././././././././././././././././././././././/././././././././././././././././././././././././././/././.
+New destination string is '././././././././././././././././././././././././././././././././././././/././.'
+
+TEST 15: FAIL - USED THE REST OF THE BUFFER WITHOUT ALLOWING TO TYPE NEW STRING CHARACTERS
+Destination string is reset to empty
+Type the source string (q - to quit):
+New destination string is './././././././././././././././././././././././/././.'
+
+TEST 16: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+
+New destination string is ''
+
+TEST 17: PASS - IN LIMIT
+Destination string is reset to empty
+Type the source string (q - to quit):
+z.z.z.zz.z.z.z.z.z.z.z.z.z.z.z.z                x.x.x.x.x..x.xx.x. a
+New destination string is 'z.z.z.zz.z.z.z.z.z.z.z.z.z.z.z.z                x.x.x.x.x..x.xx.x. a'
+
+TEST 18: PASS
+Destination string is reset to empty
+Type the source string (q - to quit):
+q
+*** End of Copying Strings Demo ***
 
 Program ended with exit code: 0
