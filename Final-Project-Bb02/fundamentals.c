@@ -57,7 +57,7 @@ void fundamentals(void)
     
     //
     // V2: VERSION 2 //
-    prinf("*** Start of Measuring Strings Demo ***\n");
+    printf("*** Start of Measuring Strings Demo ***\n");
     
     char buffer2[BUFFER_SIZE];
     
