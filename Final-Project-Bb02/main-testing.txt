@@ -1,0 +1,53 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+q
+*** End of Indexing String Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenating String Demo ***
+Type the first string (q - to quit):
+q
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Please enter an integer numeric string (or 'q' to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0

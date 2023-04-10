@@ -1,0 +1,13 @@
+*** Start of Converting Strings to int Demo ***
+Please enter an integer numeric string (or 'q' to quit):
+2147483648.000000
+The converted number is: 2147483647
+Please enter an integer numeric string (or 'q' to quit):
+-2147483648.00000
+The converted number is: -2147483647
+Please enter an integer numeric string (or 'q' to quit):
+88.88
+The converted number is: 88
+Please enter an integer numeric string (or 'q' to quit):
+q
+*** End of Converting Strings to int Demo ***
