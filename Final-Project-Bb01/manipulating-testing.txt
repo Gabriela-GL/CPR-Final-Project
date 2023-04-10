@@ -1,0 +1,55 @@
+
+*** Start of Concatenating String Demo ***
+Type the first string (q - to quit):
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
+Typr the second string:
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;':'
+Type the first string (q - to quit):
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
+Typr the second string:
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;':'
+Type the first string (q - to quit):
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
+Typr the second string:
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;':'
+Type the first string (q - to quit):
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;':
+Typr the second string:
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;''
+Type the first string (q - to quit):
+asdfghjklasdfghjklasdfghjkldfghjklsdfghjksdfghjksdfghjkdfghjkdfghj
+Typr the second string:
+sdfghjkdfghjkdfghjdfghjkdfghjdfghjkdfghjfghjkqwertyui
+Concatenated string is 'asdfghjklasdfghjklasdfghjkldfghjklsdfghjksdfghjksdfghjkdfghjkdfghjsdfghjkdfghjkdfghjdfghjkdfghjdfghjkdfghjfghjkqwertyui'
+Type the first string (q - to quit):
+qqqq
+Typr the second string:
+qqqqq
+Concatenated string is 'qqqqqqqqq'
+Type the first string (q - to quit):
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+Typr the second string:
+Concatenated string is '888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888'
+Type the first string (q - to quit):
+111111
+Typr the second string:
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888333
+Concatenated string is '111111888888888888888888888888888888888888888888888888888888888888888888888888888888'
+Type the first string (q - to quit):
+Typr the second string:
+q
+Concatenated string is '88888888888888888888888888888888333q'
+Type the first string (q - to quit):
+
+
+Typr the second string:
+
+Concatenated string is '  '
+Type the first string (q - to quit):
+1
+Typr the second string:
+2
+Concatenated string is '12'
+Type the first string (q - to quit):
+q
+
