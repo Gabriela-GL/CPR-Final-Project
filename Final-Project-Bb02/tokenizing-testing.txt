@@ -1,4 +1,4 @@
-Text file with results of testing, on excel file, will find the most important test and on this one, I going to record every test.
+Text file with results of testing, on Excel file, will find the most important test; on this one, I will record every test.
 Test 1, CASES +:
 *** Start of Tokenizing Words Demo ***
 Type a few words separated by space (q - to quit):
@@ -463,5 +463,162 @@ q
 
 
 D:\Seneca\Computer Principles for Programmers\VisualStudio\CP4P_W1\x64\Debug\CP4P_W1.exe (process 18316) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+
+
+
+VERSION 2
+
+Test 1, CASES +:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma (q - to quit):
+phrase number 1, phrase number 2, pharse number 3
+Phrase #1 is 'phrase number 1'
+Phrase #2 is ' phrase number 2'
+Phrase #3 is ' pharse number 3'
+Type a few phrases separated by comma (q - to quit):
+phrases with more commas, aaaaaaaaaaaaaa, bbbbbbbbbbbbb, ccccccccccccccccccc, ddddddddddddddddddd, eeeeeeeeeeeeeeeeeee, ffffffffffffff, gggggggggggggg
+Phrase #1 is 'phrases with more commas'
+Phrase #2 is ' aaaaaaaaaaaaaa'
+Phrase #3 is ' bbbbbbbbbbbbb'
+Phrase #4 is ' ccccccccccccccccccc'
+Phrase #5 is ' ddddddddddddddddddd'
+Phrase #6 is ' eeeeeeeeeeeeeeeeeee'
+Phrase #7 is ' ffffffffffffff'
+Phrase #8 is ' gggggggggggggg'
+Type a few phrases separated by comma (q - to quit):
+phrasesWithOutSpaces,HelloSecondPhrase,AnotherPhaseInHere,LastOneOverThere
+Phrase #1 is 'phrasesWithOutSpaces'
+Phrase #2 is 'HelloSecondPhrase'
+Phrase #3 is 'AnotherPhaseInHere'
+Phrase #4 is 'LastOneOverThere'
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+D:\Seneca\Computer Principles for Programmers\VisualStudio\CP4P_W1\x64\Debug\CP4P_W1.exe (process 9824) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+Test 2, CASES -:
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma (q - to quit):
+
+Type a few phrases separated by comma (q - to quit):
+,,,,,
+Type a few phrases separated by comma (q - to quit):
+ , , , , ,
+Phrase #1 is ' '
+Phrase #2 is ' '
+Phrase #3 is ' '
+Phrase #4 is ' '
+Phrase #5 is ' '
+Type a few phrases separated by comma (q - to quit):
+aaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aa a  aaaa a aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaa a a a aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa a aaa a a a aaaaaaaaaaaaaaaaaaaaaa a aaaaaaaaaaaaaaa aaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, bbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb b b b b b b  b b b b b b b b b b b b b b b b bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbb
+Phrase #1 is 'aaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aa a  aaaa a aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaa a a a aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa a aaa a a a aaaaaaaaaaaaaaaaaaaaaa a aaaaaaaaaaaaaaa aaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'aaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaa'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'aaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaa'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'aaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+Phrase #2 is ' bbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbb'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbb'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbb b b b b b b  b b b b b b b b b b b b b b b b bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbb'
+Type a few phrases separated by comma (q - to quit):
+Phrase #1 is 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+D:\Seneca\Computer Principles for Programmers\VisualStudio\CP4P_W1\x64\Debug\CP4P_W1.exe (process 13316) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+
+
+
+
+
+VERSION 3
+
+Text file with results of testing, on Excel file, will find the most important test; on this one, I will record every test.
+Test 1, CASES +:
+*** Start of Tokenizing sentences Demo ***
+Type a few phrases separated by comma (q - to quit):
+The quick brown fox jumps over the lazy dog. The sky is a beautiful shade of blue today. I love listening to music while I work.
+Sentence #1 is 'The quick brown fox jumps over the lazy dog'
+Sentence #2 is ' The sky is a beautiful shade of blue today'
+Sentence #3 is ' I love listening to music while I work'
+Type a few phrases separated by comma (q - to quit):
+The sun was setting over the horizon, casting a warm orange glow across the sky. Birds were chirping as they flew overhead, searching for a place to roost for the night. A gentle breeze blew, rustling the leaves of the trees and bringing with it the scent of freshly cut grass. Children could be heard playing in the distance, their laughter echoing through the air. It was a peaceful evening, a moment of tranquility in a world that was often chaotic.
+Sentence #1 is 'The sun was setting over the horizon, casting a warm orange glow across the sky'
+Sentence #2 is ' Birds were chirping as they flew overhead, searching for a place to roost for the night'
+Sentence #3 is ' A gentle breeze blew, rustling the leaves of the trees and bringing with it the scent of freshly cut grass'
+Sentence #4 is ' Children could be he'
+Type a few phrases separated by comma (q - to quit):
+Sentence #1 is 'rd playing in the distance, their laughter echoing through the air'
+Sentence #2 is ' It was a peaceful evening, a moment of tranquility in a world that was often chaotic'
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing sentence Demo ***
+
+
+D:\Seneca\Computer Principles for Programmers\VisualStudio\CP4P_W1\x64\Debug\CP4P_W1.exe (process 21568) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+Test 2, CASES -:
+*** Start of Tokenizing sentences Demo ***
+Type a few phrases separated by comma (q - to quit):
+ . . . . . . . . . . . . . .
+Sentence #1 is ' '
+Sentence #2 is ' '
+Sentence #3 is ' '
+Sentence #4 is ' '
+Sentence #5 is ' '
+Sentence #6 is ' '
+Sentence #7 is ' '
+Sentence #8 is ' '
+Sentence #9 is ' '
+Sentence #10 is ' '
+Sentence #11 is ' '
+Sentence #12 is ' '
+Sentence #13 is ' '
+Sentence #14 is ' '
+Type a few phrases separated by comma (q - to quit):
+.............................
+Type a few phrases separated by comma (q - to quit):
+. . .... . . . ... . . . ...
+Sentence #1 is ' '
+Sentence #2 is ' '
+Sentence #3 is ' '
+Sentence #4 is ' '
+Sentence #5 is ' '
+Sentence #6 is ' '
+Sentence #7 is ' '
+Sentence #8 is ' '
+Sentence #9 is ' '
+Sentence #10 is ' '
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing sentence Demo ***
+
+
+D:\Seneca\Computer Principles for Programmers\VisualStudio\CP4P_W1\x64\Debug\CP4P_W1.exe (process 22184) exited with code 0.
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
