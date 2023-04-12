@@ -1,4 +1,4 @@
-
+//Version 1
 *** Start of Concatenating String Demo ***
 Type the first string (q - to quit):
 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+-=[]\{}|<>?/;'":
@@ -52,4 +52,80 @@ Typr the second string:
 Concatenated string is '12'
 Type the first string (q - to quit):
 q
+
+//Version 2
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+123
+Type the 2nd string to compare:
+234
+'123' string is less than '234'
+Type the 1st string to compare (q - to quit):
+1234
+Type the 2nd string to compare:
+2345
+'1234' string is less than '2345'
+Type the 1st string to compare (q - to quit):
+12345
+Type the 2nd string to compare:
+123
+'12345' string is greater than '123'
+Type the 1st string to compare (q - to quit):
+123
+Type the 2nd string to compare:
+123
+'123' string is equal to '123'
+Type the 1st string to compare (q - to quit):
+Hello world
+Type the 2nd string to compare:
+hello World
+'Hello world' string is less than 'hello World'
+Type the 1st string to compare (q - to quit):
+Hello world
+Type the 2nd string to compare:
+Hello World
+'Hello world' string is greater than 'Hello World'
+Type the 1st string to compare (q - to quit):
+Hello world
+Type the 2nd string to compare:
+Hello world
+'Hello world' string is equal to 'Hello world'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+012345
+Type the 2nd string to compare:
+0011111
+'012345' string is greater than '0011111'
+Type the 1st string to compare (q - to quit):
+012345
+Type the 2nd string to compare:
+0012345
+'012345' string is greater than '0012345'
+Type the 1st string to compare (q - to quit):
+012345
+Type the 2nd string to compare:
+0123450
+'012345' string is less than '0123450'
+Type the 1st string to compare (q - to quit):
+0012345
+Type the 2nd string to compare:
+012345
+'0012345' string is less than '012345'
+Type the 1st string to compare (q - to quit):
+Type the 1st string to compare (q - to quit):
+7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+Type the 2nd string to compare:
+'777777777777777777777777777777777777777777777777777777777777777777777777777777' string is equal to '777777777777777777777777777777777777777777777777777777777777777777777777777777'
+Type the 1st string to compare (q - to quit):
+Type the 2nd string to compare:
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+'77777777777' string is less than '888888888888888888888888888888888888888888888888888888888888888888888888888888'
+Type the 1st string to compare (q - to quit):
+Type the 2nd string to compare:
+
+
 
