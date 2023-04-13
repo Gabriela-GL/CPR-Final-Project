@@ -1,3 +1,14 @@
+/*
+
+Programmer: Jorel Rutger
+Last update of code: April 12, 2023
+
+Module Functionality:
+	Version 1: code entered, commented, compiled with unit module files into an integrated program
+	Version 2: recompiles V2 modules into an integrated program.
+
+*/
+
 #define _CRT_SECURE_NO_WARNINGS // Define to suppress warning related to standard C library functions
 
 // Includes the header files for each module parts
