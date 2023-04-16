@@ -1,12 +1,10 @@
 /*
-
 Programmer: Jorel Rutger
-Last update of code: April 12, 2023
-
+Last update of code: April 16, 2023
 Module Functionality:
 	Version 1: code entered, commented, compiled with unit module files into an integrated program
 	Version 2: recompiles V2 modules into an integrated program.
-
+	Version 3: recompiles V3 modules into an integrated program.
 */
 
 #define _CRT_SECURE_NO_WARNINGS // Define to suppress warning related to standard C library functions
@@ -21,11 +19,11 @@ int main(void) {
 	char buff[10]; // Buffer to hold user input string
 
 	do {	// Menu options
-		printf("1 - Fundamentals\n"); 
-		printf("2 - Manipulation\n"); 
+		printf("1 - Fundamentals\n");
+		printf("2 - Manipulation\n");
 		printf("3 - Converting\n");
-		printf("4 - Tokenizing\n"); 
-		printf("0 - Exit\n"); 
+		printf("4 - Tokenizing\n");
+		printf("0 - Exit\n");
 		printf("Which module to run? \n"); // Prompt for user input
 
 		fgets(buff, 10, stdin);
