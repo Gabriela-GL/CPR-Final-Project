@@ -3,11 +3,12 @@
 /*
 
 Programmer: Jorel Rutger
-Last update of code: April 12, 2023
+Last update of code: April 16, 2023
 
 Module Functionality:
 	Version 1: Obtains a string and converts it into an integer.
 	Version 2: Obtains a string and converts it into a double.
+	Version 3: Obtains a string and converts it into a long.
 
 */
 
