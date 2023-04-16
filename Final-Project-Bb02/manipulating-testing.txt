@@ -127,5 +127,67 @@ Type the 2nd string to compare:
 Type the 1st string to compare (q - to quit):
 Type the 2nd string to compare:
 
+//Version 3
 
+*** Start of Searching Strings Demo ***
+Type the string (q - to quit):
+I love pasta, pasta loves me
+Type the substring:
+pasta
+'pasta' found at 7 position
+Type the string (q - to quit):
+I love pasta, but I hate pizza
+Type the substring:
+
+' ' found at 1 position
+Type the string (q - to quit):
+
+Type the substring:
+
+' ' found at 0 position
+Type the string (q - to quit):
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+Type the substring:
+'88888' found at 0 position
+Type the string (q - to quit):
+19999999999999999999999999999999999999999999999999999999999999999
+Type the substring:
+9
+'9' found at 1 position
+Type the string (q - to quit):
+1999999999999999999999999999999999999999999999999999999999999999997
+Type the substring:
+7
+'7' found at 66 position
+Type the string (q - to quit):
+1999999999999999999999999999999999999999999999999999999999999999999999999999989999999
+Type the substring:
+'999999' found at 1 position
+Type the string (q - to quit):
+1999999999999999999999999999999999999999999999999999999999999999999999999999998
+Type the substring:
+'' found at 0 position
+Type the string (q - to quit):
+19999999999999999999999999999999999999999999999999999999999999999999999999999983
+Type the substring:
+Not found
+Type the string (q - to quit):
+199999999999999999999999999999999999999999999999999999999999999999999999999999835
+Type the substring:
+Not found
+Type the string (q - to quit):
+1999999999999999999999999999999999999999999999999999999999999999999999999999998359
+Type the substring:
+Not found
+Type the string (q - to quit):
+19999999999999999999999999999999999999999999999999999999999999999999999999999983599
+Type the substring:
+Not found
+Type the string (q - to quit):
+199999999999999999999999999999999999999999999999999999999999999999999999999999835993
+Type the substring:
+Not found
+Type the string (q - to quit):
+q
+*** End of Searching Strings Demo***
 
