@@ -1,16 +1,30 @@
+//
+Test Cases Scenarios
+Module: Conversions
+Jorel Rutger
+//
+
+//
+Version 1 Tested April 9, 2023
+// 
+
 *** Start of Converting Strings to int Demo ***
 Please enter an integer numeric string (or 'q' to quit):
 2147483648.000000
 The converted number is: 2147483647
 Please enter an integer numeric string (or 'q' to quit):
 -2147483648.00000
-The converted number is: -2147483647
+The converted number is: -2147483648
 Please enter an integer numeric string (or 'q' to quit):
 88.88
 The converted number is: 88
 Please enter an integer numeric string (or 'q' to quit):
 q
 *** End of Converting Strings to int Demo ***
+
+//
+Version 2 Tested April 12, 2023
+// 
 
 *** Start of Converting Strings to double Demo ***
 Type the double numeric string (q - to quit):
@@ -25,3 +39,21 @@ Converted number is -17976930000000000497991309115354643117738567694534348673019
 Type the double numeric string (q - to quit):
 q
 *** End of Converting Strings to double Demo ***
+
+//
+Version 3 Tested April 16, 2023
+//
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+-2147483649.000000
+Converted number is -2147483648
+Type the long numeric string (q - to quit):
+75.2142
+Converted number is 75
+Type the long numeric string (q - to quit):
+2147483648.000000
+Converted number is 2147483647
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
