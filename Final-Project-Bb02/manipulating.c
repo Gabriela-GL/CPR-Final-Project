@@ -32,7 +32,7 @@ void manipulating() {
 	} while ((strcmp(string1, "q") != 0));*/
 
 
-/* Version 2 */
+/* Version 2 
 	printf("*** Start of Comparing Strings Demo ***\n");
 	//2 strings of size 80
 	char compare1[BUFFER_SIZE];
@@ -71,9 +71,31 @@ void manipulating() {
 	} while (strcmp(compare1, "q") != 0);
 	//end of test
 	printf("*** End of Comparing Strings Demo ***\n\n");
-
+	*/
 
 /* Version 3 */
+	printf("*** Start of Searching Strings Demo ***\n");
+	char haystack[BUFFER_SIZE];
+	char needle[BUFFER_SIZE];
+	char* occurence = NULL;//pointer type no determined size
+	do {
+		printf("Type the string (q - to quit):\n");
+		fgets(haystack, BUFFER_SIZE, stdin); //string to search from
+		haystack[strlen(haystack) - 1] = '\0'; //set last member of string to NULL terminator to indicate the end of string 
+		if (strcmp(haystack, "q") != 0) {
+			printf("Type the substring:\n");
+			fgets(needle, BUFFER_SIZE, stdin);
+			needle[strlen(needle) - 1] = '\0';
+			occurence = strstr(haystack, needle);//strstr returns a pointer therefore we need to declair occurence as pointer type
+			if (occurence) { //if theres and occurence is not 0
+				printf("\'%s\' found at %d position\n", needle, (int)(occurence - haystack));
+			}
+			else{
+				printf("Not found\n");
+			}
+		}
+	} while (strcmp(haystack, "q") != 0);
+	printf("*** End of Searching Strings Demo***\n\n");
 
 
 
